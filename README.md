@@ -69,7 +69,7 @@ This project requires the following Python libraries:
 
 All dependencies are listed in requirements.txt
 ## **Authors**
-This project was developed by Abdulbasit Hamid and Kalaeb Tesfaye
+This project was developed by Abdulbasit Hamid and Kaleab Tesfaye
 ## **License**
 This project is licensed under the MIT License – see the LICENSE file for details
 
