@@ -4,7 +4,6 @@ This repository contains a project that demonstrates a line following robot buil
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Repository Structure](#repository-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Libraries and Dependencies](#libraries-and-dependencies)
@@ -29,3 +28,9 @@ The project is divided into three main stages:
 3. **Model Training**  
    - **Process:** The labeled dataset is used to train a CNN model in the `Line_following_model.ipynb` notebook located in the `3_Model_Training` folder.
    - **Output:** The trained model is saved as `Line_following_Robot_cnn.h5`.
+
+## **Installation**  
+### **1. Clone the Repository**  
+```bash
+git clone https://github.com/your-username/Line_Following_Robot.git
+cd Line_Following_Robot
