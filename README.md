@@ -34,3 +34,46 @@ The project is divided into three main stages:
 ```bash
 git clone https://github.com/your-username/Line_Following_Robot.git
 cd Line_Following_Robot
+```
+### **2. Install Dependencies** 
+Make sure you have Python 3.8+ installed. Run the following command to install necessary libraries:
+```bash
+pip install -r requirements.txt
+```
+## **Usage** 
+### **1. Extract Frames**
+Run the Jupyter notebook to extract frames from the video:
+```bash
+cd Frame_Extraction
+jupyter notebook Frame_Extraction.ipynb
+```
+### **2. Label and Rename Data**  
+```bash
+cd Frame_Renaming
+python rename_images.py
+```
+### **3. Train the Model**  
+```bash
+cd Model_Training
+jupyter notebook Line_following_model.ipynb
+```
+## **Dependencies**
+This project requires the following Python libraries:
+
+-OpenCV (cv2)
+-TensorFlow
+-NumPy
+-Matplotlib
+-Seaborn
+-Scikit-learn
+## **Authors**
+This project was developed by Abdulbasit Hamid and Kalaeb Tesfaye
+## **License**
+This project is licensed under the MIT License – see the LICENSE file for details
+
+
+
+
+
+
+
