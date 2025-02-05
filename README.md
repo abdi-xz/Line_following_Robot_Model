@@ -60,12 +60,14 @@ jupyter notebook Line_following_model.ipynb
 ## **Dependencies**
 This project requires the following Python libraries:
 
--OpenCV (cv2)
--TensorFlow
--NumPy
--Matplotlib
--Seaborn
--Scikit-learn
+- OpenCV (`cv2`)
+- TensorFlow
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+All dependencies are listed in requirements.txt
 ## **Authors**
 This project was developed by Abdulbasit Hamid and Kalaeb Tesfaye
 ## **License**
